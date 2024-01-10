@@ -1,3 +1,10 @@
+# Broken Guitar
+
+This was made at Recurse Center as part of the Creative Coding challenge. Each week we are given a random prompt and tasked with creating something on it in 90 minutes.
+
+For the prompt 'Murphy's Law', I decided to ruin this guitar app where every time you attempt to play a string, it breaks. It's an experience that every guitarist can relate to, perfectly capturing the idea that whatever can go wrong, will go wrong.
+
+---
 
 Guitar
 ======
